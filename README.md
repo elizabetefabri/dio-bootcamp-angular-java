@@ -7,7 +7,7 @@
 <div align="center">
     <img alt="Logo DIO" src="./github/images/bgdio.png" />
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Santander Bootcamps 2023&color=F314b5&labelColor=202024" alt="DIO Bootcamps" />
+  <img src="https://img.shields.io/static/v1?label=DIO&message=Santander Bootcamps 2023&color=Ff8888&labelColor=202024" alt="DIO Bootcamps" />
 </p>
 
 </div>
