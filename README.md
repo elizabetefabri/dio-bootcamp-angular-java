@@ -55,7 +55,7 @@
       <td><img width="40px" height="40px" align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
       <td>Versionamento de Código com Git e GitHub</td>
       <td align="center">
-        <a href="" target="_blank">
+        <a href="https://github.com/ElizabeteFabri/dio-bootcamp/tree/main/01-versionamento-git-github" target="_blank">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20GitHub-FF8888?style=for-the-badge">
         </a>
       </td>
