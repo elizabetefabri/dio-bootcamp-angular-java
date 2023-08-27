@@ -1,4 +1,12 @@
-# Versionamento de Código com Git e GitHub
+<h1>
+    <a href="https://www.dio.me/">
+     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <span>Versionamento de Código com Git e GitHub</span>
+</h1>
+
+## 📚Confira meu caderno de estudos:
+
+[![portfolio](https://img.shields.io/badge/Caderno_de_Estudos_-_DIO-ff8888?style=for-the-badge&logo=ko-fi&logoColor=white)](https://elizabete.notion.site/Caderno-de-Estudos-DIO-e3f385c2993848f2b4423b32b6d15c55?pvs=4)
 
 ## 1. O que é versionamento de código?
 
@@ -188,3 +196,7 @@ git rm -r --cached .
 git commit -m "Limpar cache do Git"
 git push origin branch
 ```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+##### Desenvolvido por <span>Elizabete</span>💗
