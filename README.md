@@ -5,7 +5,6 @@
 </h1>
 
 <div align="center">
-<img alt="Logo DIO" src="./github/images/bgdio.png" height="100px" />
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=DIO&message=Santander Bootcamps 2023&color=F314b5&labelColor=202024" alt="DIO Bootcamps" />
 </p>
