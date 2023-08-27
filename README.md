@@ -1,19 +1,15 @@
+<h1>
+    <a href="https://www.dio.me/">
+     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <span>Dio - Bootcamps Santander 2023</span>
+</h1>
+
 <div align="center">
-
-# Dio - Bootcamps Santander 2023
-
 <img alt="Logo DIO" src="./github/images/bgdio.png" />
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=DIO&message=Santander Bootcamps 2023&color=F314b5&labelColor=202024" alt="DIO Bootcamps" />
 </p>
 
-</div>
-
-<div align="center">
-
-## 🚀Minha posicão no Ranking - Data 17/08/2023
-
-<img alt="Logo DIO" src="./github/images/01-posicao-rancking.png" />
 </div>
 
 ## 🔗Acompanhe meu progresso no meu caderno de estudos:
@@ -23,7 +19,7 @@
 
 ## Ferramentas utilizadas no Bootcamp
 
-[![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=git&logoColor=ff8888)](https://www.notion.so/)
+[![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=git&logoColor=fefefe)](https://www.notion.so/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 
@@ -65,7 +61,7 @@
       <td><img width="40px" height="40px" align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
       <td>Desafios de Projetos: Crie Um Portfólio Vencedor</td>
       <td align="center">
-        <a href="" target="_blank">
+        <a href="https://github.com/ElizabeteFabri/dio-bootcamp/tree/main/02-desafio-projeto-vencedor" target="_blank">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20GitHub-30A3DC?style=for-the-badge">
         </a>
       </td>    
@@ -84,19 +80,11 @@
   <tfoot></tfoot>
 </table>
 
+<div align="center">
 
-## Passo: salvar primeira versão no Github
+## 🚀Minha posicão no Ranking - Data 17/08/2023
 
-```bash
-git init
+<img alt="Logo DIO" src="./github/images/01-posicao-rancking.png" />
+</div>
 
-git add .
-
-git commit -m "Project created"
-
-git branch -M main
-
-git remote add origin git@github.com:seuusuario/seurepositorio.git
-
-git push -u origin main
-```
+##### Desenvolvido por <span>Elizabete</span>💗
