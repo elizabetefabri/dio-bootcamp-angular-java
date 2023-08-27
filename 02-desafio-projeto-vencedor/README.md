@@ -1,10 +1,10 @@
-# Desafios de Projetos: Crie Um Portfólio Vencedor
+# :file_cabinet: Desafios de Projetos: Crie Um Portfólio Vencedor
 
-## O que eu aprendi com essa aula:
+## :memo: O que eu aprendi com essa aula:
 
-<h2>
-Ter um <span>Portfólio vencedor no GitHub</span> que aumente suas visualizações e destaque suas habilidades é uma ótima maneira de atrair a atenção de potenciais empregadores, colegas de trabalho e colaboradores em projetos de código aberto.
-</h2>
+### Ter um <span>Portfólio vencedor no GitHub</span> 
+que aumente suas visualizações e destaque suas habilidades é uma ótima maneira de atrair a atenção de potenciais empregadores, colegas de trabalho e colaboradores em projetos de código aberto.
+
 
 ### <span> Escolha um Nome de Usuário Memorável:</span> 
 Seu nome de usuário no GitHub deve ser fácil de lembrar e profissional. Evite nomes de usuário obscuros.
@@ -50,3 +50,7 @@ Compartilhe seus projetos e contribuições em redes sociais, fóruns e grupos d
 
 ### <span> Peça Feedback:</span> 
 Não tenha medo de pedir feedback sobre seu código e projetos. Isso pode ajudá-lo a melhorar e mostrar que você está disposto a aprender.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+##### Desenvolvido por <span>Elizabete</span>💗

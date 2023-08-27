@@ -5,19 +5,19 @@
 </h1>
 
 <div align="center">
-<img alt="Logo DIO" src="./github/images/bgdio.png" />
+<img alt="Logo DIO" src="./github/images/bgdio.png" height="100px" />
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=DIO&message=Santander Bootcamps 2023&color=F314b5&labelColor=202024" alt="DIO Bootcamps" />
 </p>
 
 </div>
 
-## 🔗Acompanhe meu progresso no meu caderno de estudos:
+## 📚Acompanhe meu progresso no meu caderno de estudos:
 
 [![portfolio](https://img.shields.io/badge/Caderno_de_Estudos_-_DIO-ff8888?style=for-the-badge&logo=ko-fi&logoColor=white)](https://elizabete.notion.site/Caderno-de-Estudos-DIO-e3f385c2993848f2b4423b32b6d15c55?pvs=4)
 
 
-## Ferramentas utilizadas no Bootcamp
+## :memo: Ferramentas utilizadas no Bootcamp
 
 [![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=git&logoColor=fefefe)](https://www.notion.so/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
