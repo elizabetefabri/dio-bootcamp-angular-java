@@ -2,7 +2,7 @@
 
 # Dio - Bootcamps Santander 2023
 
-<img alt="Logo DIO" src="./github/image/bgdio.png" />
+<img alt="Logo DIO" src="./github/images/bgdio.png" />
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=DIO&message=Santander Bootcamps 2023&color=F314b5&labelColor=202024" alt="DIO Bootcamps" />
 </p>
@@ -13,7 +13,7 @@
 
 ## Minha posicão no Ranking - Data 17/08/2023
 
-<img alt="Logo DIO" src="./github/image/01-posicao-rancking.png" />
+<img alt="Logo DIO" src="./github/images/01-posicao-rancking.png" />
 </div>
 
 ## 🔗Acompanhe meu progresso no meu caderno de estudos:
@@ -57,7 +57,7 @@ git push -u origin main
   <tbody align="left">
     <tr>
       <td>01</td>
-      <td><img align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
+      <td><img width="40px" height="40px" align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
       <td>Organizando seus Estudos com os Roadmaps DIO e o Notion</td>
       <td align="center">
         <a href="https://elizabete.notion.site/elizabete/Caderno-de-Estudos-DIO-e3f385c2993848f2b4423b32b6d15c55">
@@ -67,7 +67,7 @@ git push -u origin main
     </tr>
     <tr>
       <td>02</td>
-      <td><img align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
+      <td><img width="40px" height="40px" align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
       <td>Versionamento de Código com Git e GitHub</td>
       <td align="center">
         <a href="">
@@ -77,7 +77,7 @@ git push -u origin main
     </tr>
     <tr>
       <td>03</td>
-      <td><img align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
+      <td><img width="40px" height="40px" align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
       <td>Desafios de Projetos: Crie Um Portfólio Vencedor</td>
       <td align="center">
         <a href="">
@@ -87,7 +87,7 @@ git push -u origin main
     </tr>
     <tr>
       <td>04</td>
-      <td><img align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
+      <td><img width="40px" height="40px" align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
       <td>Contribuindo em um Projeto Open Source no GitHub</td>
       <td align="center">
         <a href="">
