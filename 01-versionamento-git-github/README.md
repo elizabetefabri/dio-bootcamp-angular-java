@@ -21,19 +21,26 @@ GitHub é uma plataforma de hospedagem de código-fonte baseada na web que utili
 Copie o token gerado.
 
 #### Configure o Git para usar o token como credencial:
+```
 //COMANDOS PARA EXECUTAR NO TERMINAL
-##### git config --global credential.helper store
-##### git credential approve
+git config --global credential.helper store
+git credential approve
+```
 
 ## 5. Como configurar e autenticar via SSH?
 
 ### Para configurar e autenticar via SSH:
 #### Gere um par de chaves SSH no seu computador:
+```
 //COMANDOS PARA EXECUTAR NO TERMINAL
-##### ssh-keygen -t rsa -b 4096 -C "seu-email@example.com"
+ssh-keygen -t rsa -b 4096 -C "seu-email@example.com"
+```
 
 ### Adicione a chave SSH gerada ao agente SSH:
-##### ssh-add ~/.ssh/id_rsa
+```
+//COMANDOS PARA EXECUTAR NO TERMINAL
+ssh-add ~/.ssh/id_rsa
+```
 
 ### Adicione a chave pública (id_rsa.pub) ao seu perfil no GitHub.
 
@@ -45,58 +52,80 @@ Clique no sinal de '+' no canto superior direito e escolha "New repository".
 Siga as instruções para criar o repositório.
 
 ### Para clonar um repositório existente:
+```
 //COMANDOS PARA EXECUTAR NO TERMINAL
-##### git clone <URL_do_repositório>
+git clone <URL_do_repositório>
+```
 
 ## 7. Como salvar alterações no repositório local?
 
 ### Para salvar alterações no repositório local:
 #### Adicione as alterações aos "staged" (preparadas):
+```
 //COMANDOS PARA EXECUTAR NO TERMINAL
-##### git add <arquivos>
+git add <arquivos>
+```
 
 ### Faça um commit das alterações:
+```
 //COMANDOS PARA EXECUTAR NO TERMINAL
-##### git commit -m "Mensagem do commit"
+git commit -m "Mensagem do commit"
+```
 
 ## 8. Como desfazer alterações no repositório local?
 
 ### Para desfazer as alterações locais e restaurar o estado anterior:
 #### Descarte as alterações não cometidas:
+```
 //COMANDOS PARA EXECUTAR NO TERMINAL
-##### git reset --hard HEAD
+git reset --hard HEAD
+```
 
 #### Para descartar um commit específico:
+```
 //COMANDOS PARA EXECUTAR NO TERMINAL
-##### git reset --hard <ID_do_commit>
+git reset --hard <ID_do_commit>
+```
 
 ## 9. Como enviar via REMOTE e trabalhar com branches?
 
 ### Para enviar alterações para o repositório remoto:
+```
 //COMANDOS PARA EXECUTAR NO TERMINAL
-##### git push origin <nome_da_branch>
+git push origin <nome_da_branch>
+```
 
 #### Para trabalhar com branches:
 #### Criar uma nova branch:
+```
 //COMANDOS PARA EXECUTAR NO TERMINAL
-##### git checkout -b <nome_da_branch>
+git checkout -b <nome_da_branch>
+```
 
 #### Mudar para uma branch existente:
+```
 //COMANDOS PARA EXECUTAR NO TERMINAL
-##### git checkout <nome_da_branch>
+git checkout <nome_da_branch>
+```
 
 ## 10. Como criar, mesclar, deletar e tratar conflitos em branches?
 
 ### Criar uma nova branch:
+```
 //COMANDOS PARA EXECUTAR NO TERMINAL
-##### git checkout -b <nome_da_branch>
+git checkout -b <nome_da_branch>
+```
 
 ### Mesclar uma branch em outra:
-##### git checkout <branch_destino>
-##### git merge <branch_fonte>
+```
+git checkout <branch_destino>
+git merge <branch_fonte>
+```
 
 ### Deletar uma branch local:
-##### git branch -d <nome_da_branch>
+```
+git branch -d <nome_da_branch>
+```
 
 ### Resolver conflitos em um merge:
 1. Abra os arquivos com conflitos e resolva-os manualmente.
@@ -106,40 +135,56 @@ Siga as instruções para criar o repositório.
 ## 11. Como trabalhar com branches usando comandos úteis no dia a dia?
 
 ### Listar branches:
+```
 //COMANDOS PARA EXECUTAR NO TERMINAL
-##### git branch
+git branch
+```
 
 ### Renomear uma branch:
+```
 //COMANDOS PARA EXECUTAR NO TERMINAL
-##### git branch -m <novo_nome>
+git branch -m <novo_nome>
+```
 
 ### Ver informações sobre as branches remotas:
+```
 //COMANDOS PARA EXECUTAR NO TERMINAL
-##### git remote show origin
-
+git remote show origin
+```
 ### Atualizar a branch local com a versão remota:
+```
 //COMANDOS PARA EXECUTAR NO TERMINAL
-##### git pull origin <nome_da_branch>
+git pull origin <nome_da_branch>
+```
 
 ## .gitignore
 ### Para remover os arquivos localmente
+```
 //EXECUTE OS SEGUINTES COMANDOS:
-#### git rm --cached nome_do_arquivo
+git rm --cached nome_do_arquivo
+```
 
 ### Confirmar as mudanças:
+```
 //EXECUTE OS SEGUINTES COMANDOS:
-#### git commit -m "Remover arquivos que devem ser ignorados"
+git commit -m "Remover arquivos que devem ser ignorados"
+```
 
 ### Enviar as mudanças para o github:
+```
 //EXECUTE OS SEGUINTES COMANDOS:
-#### git push origin branch
+git push origin branch
+```
 
 ### Limpar o Cache do GIT:
+```
 //EXECUTE OS SEGUINTES COMANDOS:
-#### git rm -r --cached .
+git rm -r --cached .
+```
 
 ### Confirme novamente e faça o push:
+```
 //EXECUTE OS SEGUINTES COMANDOS:
-#### git commit -m "Limpar cache do Git"
-#### git push origin branch
-
+git commit -m "Limpar cache do Git"
+git push origin branch
+```
