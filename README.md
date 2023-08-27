@@ -1,1 +1,100 @@
-# dio-bootcamp
+<div align="center">
+
+# Dio - Bootcamps Santander 2023
+
+<img alt="Logo DIO" src="./github/image/bgdio.png" />
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=DIO&message=Santander Bootcamps 2023&color=F314b5&labelColor=202024" alt="DIO Bootcamps" />
+</p>
+
+</div>
+
+<div align="center">
+
+## Minha posicão no Ranking - Data 17/08/2023
+
+<img alt="Logo DIO" src="./github/image/01-posicao-rancking.png" />
+</div>
+
+## 🔗Acompanhe meu progresso no meu caderno de estudos:
+
+[![portfolio](https://img.shields.io/badge/Caderno_de_Estudos_-_DIO-ff8888?style=for-the-badge&logo=ko-fi&logoColor=white)](https://elizabete.notion.site/Caderno-de-Estudos-DIO-e3f385c2993848f2b4423b32b6d15c55?pvs=4)
+
+## Passo: salvar primeira versão no Github
+
+```bash
+git init
+
+git add .
+
+git commit -m "Project created"
+
+git branch -M main
+
+git remote add origin git@github.com:seuusuario/seurepositorio.git
+
+git push -u origin main
+```
+
+## Ferramentas utilizadas no Bootcamp
+
+[![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=git&logoColor=ff8888)](https://www.notion.so/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+
+## Percurso
+
+### Módulo: Princípios de Desenvolvimento de Software
+<table>
+  <thead>
+    <tr align="left">
+      <th>Nº</th>
+      <th>Status</th>
+      <th>Etapas</th>
+      <th>Projetos</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <td>01</td>
+      <td><img align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
+      <td>Organizando seus Estudos com os Roadmaps DIO e o Notion</td>
+      <td align="center">
+        <a href="https://elizabete.notion.site/elizabete/Caderno-de-Estudos-DIO-e3f385c2993848f2b4423b32b6d15c55">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20GitHub-30A3DC?style=for-the-badge">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td><img align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
+      <td>Versionamento de Código com Git e GitHub</td>
+      <td align="center">
+        <a href="">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20GitHub-FF8888?style=for-the-badge">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td><img align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
+      <td>Desafios de Projetos: Crie Um Portfólio Vencedor</td>
+      <td align="center">
+        <a href="">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20GitHub-30A3DC?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+    <tr>
+      <td>04</td>
+      <td><img align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
+      <td>Contribuindo em um Projeto Open Source no GitHub</td>
+      <td align="center">
+        <a href="">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20GitHub-FF8888?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+  </tbody>
+  <tfoot></tfoot>
+</table>
