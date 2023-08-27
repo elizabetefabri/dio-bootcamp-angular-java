@@ -11,7 +11,7 @@
 
 <div align="center">
 
-## Minha posicão no Ranking - Data 17/08/2023
+## 🚀Minha posicão no Ranking - Data 17/08/2023
 
 <img alt="Logo DIO" src="./github/images/01-posicao-rancking.png" />
 </div>
@@ -20,21 +20,6 @@
 
 [![portfolio](https://img.shields.io/badge/Caderno_de_Estudos_-_DIO-ff8888?style=for-the-badge&logo=ko-fi&logoColor=white)](https://elizabete.notion.site/Caderno-de-Estudos-DIO-e3f385c2993848f2b4423b32b6d15c55?pvs=4)
 
-## Passo: salvar primeira versão no Github
-
-```bash
-git init
-
-git add .
-
-git commit -m "Project created"
-
-git branch -M main
-
-git remote add origin git@github.com:seuusuario/seurepositorio.git
-
-git push -u origin main
-```
 
 ## Ferramentas utilizadas no Bootcamp
 
@@ -60,7 +45,7 @@ git push -u origin main
       <td><img width="40px" height="40px" align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
       <td>Organizando seus Estudos com os Roadmaps DIO e o Notion</td>
       <td align="center">
-        <a href="https://elizabete.notion.site/elizabete/Caderno-de-Estudos-DIO-e3f385c2993848f2b4423b32b6d15c55">
+        <a href="https://elizabete.notion.site/elizabete/Caderno-de-Estudos-DIO-e3f385c2993848f2b4423b32b6d15c55" target="_blank">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20GitHub-30A3DC?style=for-the-badge">
         </a>
       </td>
@@ -70,7 +55,7 @@ git push -u origin main
       <td><img width="40px" height="40px" align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
       <td>Versionamento de Código com Git e GitHub</td>
       <td align="center">
-        <a href="">
+        <a href="" target="_blank">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20GitHub-FF8888?style=for-the-badge">
         </a>
       </td>
@@ -80,7 +65,7 @@ git push -u origin main
       <td><img width="40px" height="40px" align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
       <td>Desafios de Projetos: Crie Um Portfólio Vencedor</td>
       <td align="center">
-        <a href="">
+        <a href="" target="_blank">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20GitHub-30A3DC?style=for-the-badge">
         </a>
       </td>    
@@ -90,7 +75,7 @@ git push -u origin main
       <td><img width="40px" height="40px" align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
       <td>Contribuindo em um Projeto Open Source no GitHub</td>
       <td align="center">
-        <a href="">
+        <a href="" target="_blank">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20GitHub-FF8888?style=for-the-badge">
         </a>
       </td>    
@@ -98,3 +83,20 @@ git push -u origin main
   </tbody>
   <tfoot></tfoot>
 </table>
+
+
+## Passo: salvar primeira versão no Github
+
+```bash
+git init
+
+git add .
+
+git commit -m "Project created"
+
+git branch -M main
+
+git remote add origin git@github.com:seuusuario/seurepositorio.git
+
+git push -u origin main
+```
