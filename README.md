@@ -79,7 +79,7 @@
       <td>Introdução a criação de websites com HTML5 e CSS3</td>
       <td align="center">
         <a href="https://github.com/ElizabeteFabri/dio-bootcamp/tree/main/04-introducao-html-css" target="_blank">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20GitHub-FF8888?style=for-the-badge">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20GitHub-30A3DC?style=for-the-badge">
         </a>
       </td>    
     </tr>

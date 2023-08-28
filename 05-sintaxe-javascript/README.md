@@ -13,7 +13,7 @@
 <ul>
    <li>
       <details>
-         <summary><mark class="highlight-red_background">Aula 1 - O que é JavaScript? </mark> <code>script.js</code> ✅</summary>
+         <summary><mark class="highlight-red_background">Aula 1 - O que é JavaScript? </mark> <code>script.js</code> :purple_circle: </summary>
          <div>
             <h4>Referências</h4>
             <table>
@@ -90,7 +90,7 @@
                   <ul>
                      <li>
                         <details>
-                           <summary>✅Boas Práticas</summary>
+                           <summary>:purple_circle: Boas Práticas</summary>
                            <ul>
                               <li>
                                  <div></div>
@@ -115,7 +115,7 @@
 <ul>
    <li>
       <details>
-         <summary>Aula 2 - Entendendo variáveis e seus valores <code>var, let &amp; const</code> ✅</summary>
+         <summary>Aula 2 - Entendendo variáveis e seus valores <code>var, let &amp; const</code> :purple_circle: </summary>
          <div>
             <h4>Referências</h4>
             <table>
@@ -196,7 +196,7 @@
          <ul>
             <li>
                <details>
-                  <summary>✅Boas Práticas</summary>
+                  <summary>:purple_circle: Boas Práticas</summary>
                   <ul>
                      <li>
                         <div></div>
@@ -212,7 +212,7 @@
 <ul>
    <li>
       <details>
-         <summary>Aula 3 - Vetores e objetos <code>[array] {object}</code> ✅</summary>
+         <summary>Aula 3 - Vetores e objetos <code>[array] {object}</code> :purple_circle: </summary>
          <div>
             <h4>Referências</h4>
             <table>
@@ -281,7 +281,7 @@
 <ul>
    <li>
       <details>
-         <summary>Aula 4 - Estruturas condicionais <code>if &amp;&amp; else...</code> ✅</summary>
+         <summary>Aula 4 - Estruturas condicionais <code>if &amp;&amp; else...</code> :purple_circle: </summary>
          <div>
             <h4>Referências</h4>
             <table>
@@ -328,7 +328,7 @@
 <ul>
    <li>
       <details>
-         <summary>Aula 5 – Funções e suas particularidades <code>function(){}</code> ✅</summary>
+         <summary>Aula 5 – Funções e suas particularidades <code>function(){}</code> :purple_circle: </summary>
          <div>
             <h4>Referências</h4>
             <table>
@@ -372,7 +372,7 @@
 <ul>
    <li>
       <details>
-         <summary>Aula 6 – Aprofundando em funções <code>() =&gt; {}</code> ✅</summary>
+         <summary>Aula 6 – Aprofundando em funções <code>() =&gt; {}</code> :purple_circle: </summary>
          <div>
             <h4>Referências</h4>
             <table>
@@ -388,7 +388,7 @@
                      <td><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Functions">tipos de função</a></td>
                   </tr>
                   <tr>
-                     <td><a href="#">calculadora</a></td>
+                     <td><a href="https://github.com/ElizabeteFabri/dio-bootcamp/blob/main/05-sintaxe-javascript/Aula%206%20-%20aprofundando%20em%20fun%C3%A7%C3%B5es/calculadora.js">calculadora</a></td>
                   </tr>                 
                </tbody>
             </table>
