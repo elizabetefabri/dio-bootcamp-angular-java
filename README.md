@@ -68,7 +68,17 @@
       <td><img width="40px" height="40px" align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
       <td>Contribuindo em um Projeto Open Source no GitHub</td>
       <td align="center">
-        <a href="" target="_blank">
+        <a href="https://github.com/ElizabeteFabri/dio-bootcamp/tree/main/03-contribuir-projeto-opensource" target="_blank">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20GitHub-FF8888?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+    <tr>
+      <td>05</td>
+      <td><img width="40px" height="40px" align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
+      <td>Introdução a criação de websites com HTML5 e CSS3</td>
+      <td align="center">
+        <a href="https://github.com/ElizabeteFabri/dio-bootcamp/tree/main/04-introducao-html-css" target="_blank">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20GitHub-FF8888?style=for-the-badge">
         </a>
       </td>    
