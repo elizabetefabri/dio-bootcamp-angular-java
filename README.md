@@ -93,6 +93,16 @@
         </a>
       </td>    
     </tr>
+    <tr>
+      <td>07</td>
+      <td><img width="40px" height="40px" align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
+      <td>Introdução a criação de websites com HTML5 e CSS3</td>
+      <td align="center">
+        <a href="https://github.com/ElizabeteFabri/dio-bootcamp/tree/main/06-introducao-web-javascript" target="_blank">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20GitHub-30A3DC?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>

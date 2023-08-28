@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokedex</title>
+
+    <!-- Importando a folha de estilo "normalize.min.css" de um CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
+        integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- Importando uma fonte do Google Fonts chamada 'Roboto' com diferentes pesos -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap" rel="stylesheet">
+
+    <!-- Estilos CSS embutidos no documento HTML -->
+    <style>
+        /* Estilizando o título h1 */
+        h1 {
+            color: #ff8888; /* Cor do texto */
+            text-align: center; /* Alinhamento do texto ao centro */
+            font-family: 'Roboto', sans-serif; /* Fonte do texto */
+        }
+
+        /* Estilizando o parágrafo p */
+        p {
+            text-align: center; /* Alinhamento do texto ao centro */
+            font-family: 'Roboto', sans-serif; /* Fonte do texto */
+        }
+
+        /* Estilizando o botão button */
+        button {
+            padding: 10px 15px; /* Espaçamento interno do botão */
+            border-radius: 5px; /* Bordas arredondadas */
+            border: none; /* Sem borda */
+            color: #f5fefe; /* Cor do texto do botão */
+            background-color: #ff8888; /* Cor de fundo do botão */
+            font-family: 'Roboto', sans-serif; /* Fonte do texto do botão */
+            font-weight: normal; /* Peso da fonte */
+        }
+
+        /* Estilizando a classe .container */
+        .container {
+            display: flex; /* Usando um flex container para centralizar verticalmente */
+            flex-direction: column; /* Itens empilhados verticalmente */
+            justify-content: center; /* Centraliza verticalmente */
+            align-items: center; /* Centraliza horizontalmente */
+            height: 100vh; /* Altura igual à altura da viewport */
+        }
+    </style>
+</head>
+
+<body>
+    <!-- O conteúdo do site dentro de um div com a classe "container" -->
+    <div class="container">
+        <!-- Título h1 -->
+        <h1>Meu primeiro site</h1>
+        <!-- Parágrafo p -->
+        <p>Meu primeiro site está sendo desenvolvido através de um curso da plataforma DIO</p>
+
+        <!-- Botão button com um ID "btnTeste" -->
+        <button id="btnTeste" type="button">
+            Clique Aqui
+        </button>
+    </div>
+
+    <!-- Script JavaScript para lidar com o clique no botão -->
+    <script>
+        const btnTeste = document.getElementById("btnTeste")
+        btnTeste.addEventListener("click", function () {
+            console.log("Clicou no botão!") // Exibe uma mensagem no console quando o botão é clicado
+        })
+    </script>
+</body>
+
+</html>
