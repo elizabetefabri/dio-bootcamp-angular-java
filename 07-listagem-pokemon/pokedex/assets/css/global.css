@@ -1,0 +1,120 @@
+* {
+  font-family: 'Roboto', sans-serif;
+  border-sizing: border-box;
+}
+
+body {
+  background-color: #f6f8fc;
+}
+
+.content {
+  width: 100vw;
+  height: 100vh;
+  padding: 1rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+@media screen and (min-width: 992px) {
+  .content {
+      max-width: 992px;
+      height: auto;
+      margin: 1rem auto;
+      border-radius: 1rem;
+  }
+}
+.pokemons{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.pokemon{
+  display: flex;
+  flex-direction: column;
+  margin: .5rem;
+  padding: 1rem;
+  border-radius: 1rem;
+  background-color: #49d0b0;
+}
+
+.pokemon .number {
+  color: #000;
+  opacity: .3;
+  text-align: right;
+  font-size: .625rem;
+}
+
+.pokemon .name {
+  text-transform: capitalize;
+  color: #fff;
+  margin-bottom: .25rem;
+}
+
+.pokemon .detail {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.pokemon .detail .types {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.pokemon .detail .types .type {
+  color: #fff;
+  padding: .25rem .5rem;
+  margin: .25rem 0;
+  font-size: .625rem;
+  border-radius: 1rem;
+  filter: brightness(1.1);
+  text-align: center;
+}
+
+.pokemon .detail img {
+  max-width: 100%;
+  height: 70px;
+}
+
+.pagination {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 1rem;
+}
+
+.pagination button {
+  padding: .25rem .5rem;
+  margin: .25rem 0;
+  font-size: .625rem;
+  color: #fff;
+  background-color: #6c79db;
+  border: none;
+  border-radius: 1rem;
+}
+
+/* Responsividade */
+
+@media screen and (min-width: 576px) {
+  .pokemons {
+    grid-template-columns: 1fr 1fr; /* Duas colunas em telas médias */
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .pokemons {
+    grid-template-columns: 1fr 1fr 1fr; /* Três colunas em telas grandes */
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .pokemons {
+    grid-template-columns: 1fr 1fr 1fr 1fr; /* Quatro colunas em telas extra largas */
+  }
+}
