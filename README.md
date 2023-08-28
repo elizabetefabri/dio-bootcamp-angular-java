@@ -104,7 +104,7 @@
       </td>    
     </tr>
     <tr>
-      <td>07</td>
+      <td>08</td>
       <td><img width="40px" height="40px" align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
       <td>Criando um Projeto com HTML/CSS para Listagem de Pokémon</td>
       <td align="center">
