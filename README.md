@@ -30,6 +30,7 @@
       <th>Status</th>
       <th>Etapas</th>
       <th>Projetos</th>
+      <th>Desafios</th>
     </tr>
   </thead>
   <tbody align="left">
@@ -122,6 +123,16 @@
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20GitHub-30A3DC?style=for-the-badge">
         </a>
       </td>    
+    </tr>
+    <tr>
+      <td>01</td>
+      <td><img width="40px" height="40px" align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
+      <td>Desafio - 01 Listagem de Pokémon </td>
+      <td align="center">
+        <a href="https://github.com/ElizabeteFabri/dio-bootcamp/tree/main/desafios/01-js-pokedex" target="_blank">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20GitHub-30A3DC?style=for-the-badge">
+        </a>
+      </td>
     </tr>
   </tbody>
   <tfoot></tfoot>
