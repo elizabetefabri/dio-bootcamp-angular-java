@@ -48,7 +48,7 @@
       <td><img width="40px" height="40px" align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
       <td>Versionamento de Código com Git e GitHub</td>
       <td align="center">
-        <a href="https://github.com/ElizabeteFabri/dio-bootcamp/tree/main/01-versionamento-git-github" target="_blank">
+        <a href="https://github.com/ElizabeteFabri/dio-bootcamp/tree/main/aulas/01-versionamento-git-github" target="_blank">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20GitHub-FF8888?style=for-the-badge">
         </a>
       </td>
@@ -58,7 +58,7 @@
       <td><img width="40px" height="40px" align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
       <td>Desafios de Projetos: Crie Um Portfólio Vencedor</td>
       <td align="center">
-        <a href="https://github.com/ElizabeteFabri/dio-bootcamp/tree/main/02-desafio-projeto-vencedor" target="_blank">
+        <a href="https://github.com/ElizabeteFabri/dio-bootcamp/tree/main/aulas/02-desafio-projeto-vencedor" target="_blank">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20GitHub-30A3DC?style=for-the-badge">
         </a>
       </td>    
@@ -68,7 +68,7 @@
       <td><img width="40px" height="40px" align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
       <td>Contribuindo em um Projeto Open Source no GitHub</td>
       <td align="center">
-        <a href="https://github.com/ElizabeteFabri/dio-bootcamp/tree/main/03-contribuir-projeto-opensource" target="_blank">
+        <a href="https://github.com/ElizabeteFabri/dio-bootcamp/tree/main/aulas/03-contribuir-projeto-opensource" target="_blank">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20GitHub-FF8888?style=for-the-badge">
         </a>
       </td>    
@@ -78,7 +78,7 @@
       <td><img width="40px" height="40px" align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
       <td>Introdução a criação de websites com HTML5 e CSS3</td>
       <td align="center">
-        <a href="https://github.com/ElizabeteFabri/dio-bootcamp/tree/main/04-introducao-html-css" target="_blank">
+        <a href="https://github.com/ElizabeteFabri/dio-bootcamp/tree/main/aulas/04-introducao-html-css" target="_blank">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20GitHub-30A3DC?style=for-the-badge">
         </a>
       </td>    
@@ -88,7 +88,7 @@
       <td><img width="40px" height="40px" align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
       <td>Sintaxe Básica em JavaScript</td>
       <td align="center">
-        <a href="https://github.com/ElizabeteFabri/dio-bootcamp/tree/main/05-sintaxe-javascript" target="_blank">
+        <a href="https://github.com/ElizabeteFabri/dio-bootcamp/tree/main/aulas/05-sintaxe-javascript" target="_blank">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20GitHub-FF8888?style=for-the-badge">
         </a>
       </td>    
@@ -98,7 +98,7 @@
       <td><img width="40px" height="40px" align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
       <td>Introdução a criação de websites com HTML5 e CSS3</td>
       <td align="center">
-        <a href="https://github.com/ElizabeteFabri/dio-bootcamp/tree/main/06-introducao-web-javascript" target="_blank">
+        <a href="https://github.com/ElizabeteFabri/dio-bootcamp/tree/main/aulas/06-introducao-web-javascript" target="_blank">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20GitHub-30A3DC?style=for-the-badge">
         </a>
       </td>    
@@ -108,7 +108,7 @@
       <td><img width="40px" height="40px" align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
       <td>Criando um Projeto com HTML/CSS para Listagem de Pokémon</td>
       <td align="center">
-        <a href="https://github.com/ElizabeteFabri/dio-bootcamp/tree/main/07-listagem-pokemon" target="_blank">
+        <a href="https://github.com/ElizabeteFabri/dio-bootcamp/tree/main/aulas/07-listagem-pokemon" target="_blank">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20GitHub-FF8888?style=for-the-badge">
         </a>
       </td>    
@@ -118,7 +118,7 @@
       <td><img width="40px" height="40px" align="center" alt="Icone no formato quadrado, com as pontas redondas na cor verde com um risco verde escuro" src="./github/images/status.png"></td>
       <td>Dominando o Protocolo HTTP e Integrando com a PokeAPI</td>
       <td align="center">
-        <a href="https://github.com/ElizabeteFabri/dio-bootcamp/tree/main/08-http-integrando-pokapi" target="_blank">
+        <a href="https://github.com/ElizabeteFabri/dio-bootcamp/tree/main/aulas/08-http-integrando-pokapi" target="_blank">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20GitHub-30A3DC?style=for-the-badge">
         </a>
       </td>    
