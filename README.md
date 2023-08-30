@@ -30,7 +30,6 @@
       <th>Status</th>
       <th>Etapas</th>
       <th>Projetos</th>
-      <th>Desafios</th>
     </tr>
   </thead>
   <tbody align="left">
