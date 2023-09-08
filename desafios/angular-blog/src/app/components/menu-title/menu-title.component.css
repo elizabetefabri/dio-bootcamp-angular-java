@@ -1,0 +1,15 @@
+.container__menu-title {
+  color: white;
+}
+
+.container__menu-title > h1 {
+  margin: 1rem 1rem;
+  font-size: 5rem; /* Ajuste o tamanho da fonte conforme necessário */
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}
+
+.container__menu-title > hr {
+  margin: 0.5rem 1rem; /* Ajuste a margem conforme necessário */
+}
