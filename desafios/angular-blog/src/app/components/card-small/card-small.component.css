@@ -1,17 +1,18 @@
-.container__card-small{
-  width: 700px;
-  margin-bottom: 15px;
+.container__card-small {
+  width: 43.75rem; /* 700px convertidos para rem */
+  margin-bottom: 0.9375rem; /* 15px convertidos para rem */
+  max-width: 100%; /* Torna o elemento responsivo */
 }
 
-.container__card-small-content{
+.container__card-small-content {
   display: flex;
   flex-direction: row;
 }
 
 .card-small__photo > img {
-  width: 200px;
-  min-width: 200px;
-  margin-right: 20px;
+  width: 11.25rem; /* 200px convertidos para rem */
+  min-width: 11.25rem; /* 200px convertidos para rem */
+  margin-right: 1.25rem; /* 20px convertidos para rem */
 }
 
 .card-small__title {
@@ -20,6 +21,6 @@
   align-items: center;
 }
 
-.container__card-small__separator{
-  margin-top: 10px;
+.container__card-small__separator {
+  margin-top: 0.625rem; /* 10px convertidos para rem */
 }
