@@ -1,0 +1,6 @@
+
+header {
+  margin: 0.9375rem; /* 15px convertidos para rem */
+  display: flex;
+  justify-content: center;
+}
