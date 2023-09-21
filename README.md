@@ -138,6 +138,9 @@
 </table>
 
 <div align="center">
+    
+## 🚀Minha posicão no Ranking - Data 21/09/2023
+![02-posicao-rancking](https://github.com/elizabetefabri/dio-bootcamp-angular-java/assets/67619417/252f2e61-e98b-4fca-aec9-35de80257031)
 
 ## 🚀Minha posicão no Ranking - Data 17/08/2023
 
